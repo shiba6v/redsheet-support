@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: スマホで赤シート
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## アプリについて
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+効果的な勉強をしたい方へ。
+「スマホで赤シート」は、スマホを赤シートとして使えるアプリです。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+「スマホで赤シート」を使ってカメラ越しに文章を見ると、赤い文字が消えます！
+学習がもっと手軽になるアプリです。
+また、保存した写真にも赤シートを当てることができるライブラリモードも搭載。これにより、保存した写真やスクリーンショットを使って暗記帳を作れます。
 
+英単語の暗記や、試験・資格の勉強に使ってください！
 
-[jekyll-organization]: https://github.com/jekyll
+<p>
+<a href="https://forms.gle/oczkxG5pVGYfhMbHA">お問い合わせフォームはこちら</a>
+</p>
