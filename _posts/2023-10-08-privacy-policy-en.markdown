@@ -5,6 +5,16 @@ date: 2023-10-08 23:08:44 +0900
 categories: app info
 ---
 
+## Usage analytics
+
+From iOS version 2.3, スマホで赤シート uses Google Firebase Analytics to understand usage and improve the app. It collects app launches, engagement time, screen views, image import and study-start actions, a per-installation identifier, device model, OS and app versions, language, and approximate region.
+
+Selected images, image filenames and camera footage are not sent to Firebase Analytics. The app does not collect advertising identifiers or the identifier for vendor, and does not use these analytics for personalized advertising or tracking across other companies’ apps and websites.
+
+Analytics data is sent to and processed by Google. See [Google’s Privacy Policy](https://policies.google.com/privacy) and [Google Analytics data safeguards](https://support.google.com/analytics/answer/6004245).
+
+## Earlier versions / 以前のバージョン
+
 **Privacy Policy**
 
 shiba6v built the スマホで赤シート app as a Free app. This SERVICE is provided by shiba6v at no cost and is intended for use as is.
