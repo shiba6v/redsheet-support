@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   スマホで赤シートは、スマホを赤シートとして使えるアプリです。
   試験勉強などにお役立てください。
 baseurl: "/redsheet-support" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shiba6v.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _6v_
 github_username:  shiba6v
 
