@@ -1,0 +1,36 @@
+.app-download {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.app-download__button,
+.app-download__button:visited {
+  display: inline-block;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-height: 48px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  background: #b42332;
+  color: #fff;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+}
+
+.app-download__button:hover {
+  background: #8f1926;
+  color: #fff;
+  text-decoration: underline;
+}
+
+.app-download__button:focus-visible {
+  outline: 3px solid #1a568f;
+  outline-offset: 4px;
+}
+
+.app-download__note {
+  margin-top: 10px;
+  color: #555;
+  font-size: 14px;
+}
