@@ -2,6 +2,7 @@
 layout: analytics-page
 title: スマホで赤シート
 permalink: /about/
+lang: ja
 ---
 
 <link rel="stylesheet" href="{{ '/assets/about.css' | relative_url }}">
