@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: analytics-page
 title: スマホで赤シート
 permalink: /about/
 ---
